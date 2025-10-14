@@ -4,7 +4,10 @@
 </p>
 
 <!--banner-->
-PENDIENTE
+<p align="center">
+  <img src="assets/banner-vanessa.gif" alt="Hi, I'm Vanessa 👋 QA / Software Tester — Testing & Automation — Selenium | Postman | SQL">
+</p>
+
 
 <!--título-->
 <p align="center">

@@ -136,7 +136,7 @@ Tengo conocimientos de **SQL**, manejo herramientas como **Postman**, **Jira/Xra
 <!--final-->
 <div align="center">
   
-**Hecho con <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Corazón" width="25" height="25" /> y mucho <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Café" width="25" height="25" /> por Vanessa**
+**Hecho con <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Corazón" width="25" height="25" /> y mucho <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Café" width="25" height="25" /> por Vane**
 
 [![⭐ a este repo](https://img.shields.io/badge/Dale%20una%20%E2%AD%90%20a%20este%20repo-black?style=for-the-badge)](https://github.com/TU_USUARIO/TU_USUARIO)
 [![Sígueme en GitHub](https://img.shields.io/badge/S%C3%ADgueme%20en%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO)
